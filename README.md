@@ -63,3 +63,9 @@ blender --factory-startup -b --python export.py
 本着色器以 **CC BY 4.0** 发布，全文见 [LICENSE.txt](LICENSE.txt)：可以自由使用、修改和商用，需要署名并说明是否做了修改。
 
 署名示例：ZZZ_Toon 着色器 by Teyvat0，CC BY 4.0。
+
+## 开发方式
+
+本着色器的设计、代码与文档由 [dsh（DeepSeek Harness）](https://github.com/deepseek-ai/deepseek-harness) 驱动的 AI 编程代理完成，使用的模型有 Opus 5.5、Sonnet 5.5、GPT 6.1 Sol 和 DeepSeek V4.1 Flash。作者负责需求、方向与验收。
+
+[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
